@@ -1,0 +1,25 @@
+{
+  "name": "node-fmpp",
+  "version": "0.0.1",
+  "description": "fmpp for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEYouFan/node-fmpp.git"
+  },
+  "keywords": [
+    "freemarker",
+    "fmpp"
+  ],
+  "author": "june_01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEYouFan/node-fmpp/issues"
+  },
+  "homepage": "https://github.com/NEYouFan/node-fmpp#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
